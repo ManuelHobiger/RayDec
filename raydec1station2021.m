@@ -30,7 +30,7 @@ end
 
 % setting up
 K0=size(v1,1);
-K=K0/nwind;
+K=floor(K0/nwind);
 tau=t1(2)-t1(1);
 DTmax=30;
 fnyq=1/(2*tau);
