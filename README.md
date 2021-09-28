@@ -27,4 +27,4 @@ M. Hobiger, C. Cornou, M. Wathelet, G. Di Giulio, B. Knapmeyer-Endrun, F. Renali
 For a more recent example of how to use the Rayleigh wave ellipticity, please read:
 M. Hobiger, P. Bergamo, W. Imperatori, F. Panzera, A. Marrios Lontsi, V. Perron, C. Michel, J. Burjánek, and D. Fäh (2021). Site Characterization of Swiss Strong-Motion Stations: The Benefit of Advanced Processing Algorithms, Bull. Seismol. Soc. Am., doi: 10.1785/0120200316
 
-https://zenodo.org/badge/378194540.svg
+https://zenodo.org/badge/latestdoi/378194540
